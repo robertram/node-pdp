@@ -1,0 +1,3640 @@
+{
+	"snaps": {
+		"company_name.raw": [
+			"Arc'teryx"
+		]
+	},
+	"took": 4553,
+	"timed_out": false,
+	"_shards": {
+		"total": 3,
+		"successful": 3,
+		"skipped": 0,
+		"failed": 0
+	},
+	"hits": {
+		"total": {
+			"value": 1012,
+			"relation": "eq"
+		},
+		"max_score": 75.96579,
+		"main_results": [
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "858185",
+				"_score": 75.96579,
+				"_source": {
+					"type": "_main",
+					"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sunset-quotes-21-1586531574.jpg",
+					"category_name": "Windproof Tops",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Bleecker",
+							"location": {
+								"lon": "-74.00412125",
+								"lat": "40.73476674"
+							},
+							"id": 191297
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Stowe Windshell Men's",
+					"unit_msrp": "179",
+					"unit_msrp_max": "179",
+					"__pdp__": {
+						"id": "858185"
+					},
+					"long_description": "Versatile style in a lightweight windshell made with fabric saved from waste.",
+					"link": "https://www.google.com/"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			}
+		],
+		"hits": [
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "858185",
+				"_score": 75.96579,
+				"_source": {
+					"type": "_main",
+					"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sunset-quotes-21-1586531574.jpg",
+					"category_name": "Windproof Tops",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Bleecker",
+							"location": {
+								"lon": "-74.00412125",
+								"lat": "40.73476674"
+							},
+							"id": 191297
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Acer Nitro 5",
+					"unit_msrp": "179",
+					"unit_msrp_max": "179",
+					"__pdp__": {
+						"id": "858185"
+					},
+					"long_description": "Versatile style in a lightweight windshell made with fabric saved from waste.",
+					"link": "https://www.google.com/"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "548260",
+				"_score": 74.433075,
+				"_source": {
+					"type": "_faq",
+					"category_name": "Clothing Tops",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Upper West Side",
+							"location": {
+								"lon": "-73.98151212",
+								"lat": "40.77466804"
+							},
+							"id": 214963
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Component T-Shirt SS Men's",
+					"question": "What is a computer?",
+					"unit_msrp": "35",
+					"unit_msrp_max": "35",
+					"downloadLink": "https://www.google.com/",
+					"callLink": "https://www.google.com/",
+					"__pdp__": {
+						"id": "548260"
+					},
+					"long_description": "Cool, comfortable men's tee made from 100% organically grown cotton. Features a stylized Arc'teryx graphic on the back, classic bird logo on the front.",
+					"link": "https://www.google.com/"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					],
+					"long_description": [
+						"Features a stylized <b>Arc'teryx</b> graphic on the back, classic bird logo on the front."
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "793069",
+				"_score": 67.62512,
+				"_source": {
+					"type": "_doc",
+					"image": "https://via.placeholder.com/150",
+					"category_name": "Short Sleeve Shirts",
+					"stores": [
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Montréal",
+							"location": {
+								"lon": "-73.57743500",
+								"lat": "45.49575200"
+							},
+							"id": 38383
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Bleecker",
+							"location": {
+								"lon": "-74.00412125",
+								"lat": "40.73476674"
+							},
+							"id": 191297
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Flatiron",
+							"location": {
+								"lon": "-73.99048180",
+								"lat": "40.73987040"
+							},
+							"id": 193894
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Return To T-Shirt Ss Women's",
+					"downloadLink": "https://www.google.com/",
+					"callLink": "https://www.google.com/",
+					"unit_msrp": "35",
+					"unit_msrp_max": "35",
+					"__pdp__": {
+						"id": "793069"
+					},
+					"long_description": "Men's specific fit | Crew neck | Bio-washed for softness and longevity",
+					"link": "https://www.google.com/"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "586484",
+				"_score": 61.35114,
+				"_source": {
+					"type": "_doc",
+					"image": "https://via.placeholder.com/150",
+					"category_name": "Outerwear Bottoms",
+					"stores": [
+						{
+							"company_id": 119105,
+							"name": "Arc'teryx Parndorf Outlet",
+							"location": {
+								"lon": "16.85025079",
+								"lat": "47.97696599"
+							},
+							"id": 84719
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Bleecker",
+							"location": {
+								"lon": "-74.00412125",
+								"lat": "40.73476674"
+							},
+							"id": 191297
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Patrol Pant Gen 2 Men's",
+					"unit_msrp": "749",
+					"unit_msrp_max": "749",
+					"__pdp__": {
+						"id": "586484"
+					},
+					"long_description": "Extremely hardwearing, the Patrol Pant is built for mountain professionals working in rugged winter conditions. Built with a highly durable N150p-X 3L GORE-TEX Pro to protect against harsh mountain environments and equipment. Removable foam kneepads, thigh vents, high volume thigh pockets to fit notebooks, and utility belt loops make this an ideal winter work pant for professionals using mechanical access. Internal mesh and extended Keprotec instep guards reduce cuts and abrasion to the cuff."
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "793190",
+				"_score": 58.583256,
+				"_source": {
+					"type": "_doc",
+					"image": "https://via.placeholder.com/150",
+					"category_name": "Hardshell Tops",
+					"stores": [
+						{
+							"company_id": 8729,
+							"name": "REI - Bloomington Flagship - Curbside available",
+							"location": {
+								"lon": "-93.29153153",
+								"lat": "44.86066735"
+							},
+							"id": 11036
+						},
+						{
+							"company_id": 8729,
+							"name": "REI - Framingham - Curbside available",
+							"location": {
+								"lon": "-71.39366117",
+								"lat": "42.30540693"
+							},
+							"id": 11107
+						},
+						{
+							"company_id": 8729,
+							"name": "REI - Reading - Curbside available",
+							"location": {
+								"lon": "-71.08701116",
+								"lat": "42.52557697"
+							},
+							"id": 11109
+						},
+						{
+							"company_id": 8729,
+							"name": "REI - East Hanover - Curbside available",
+							"location": {
+								"lon": "-74.36941218",
+								"lat": "40.80641669"
+							},
+							"id": 11122
+						},
+						{
+							"company_id": 8729,
+							"name": "REI - Soho Flagship - Curbside available",
+							"location": {
+								"lon": "-73.99521121",
+								"lat": "40.72484667"
+							},
+							"id": 11129
+						},
+						{
+							"company_id": 8729,
+							"name": "REI - King of Prussia - Curbside available",
+							"location": {
+								"lon": "-75.40511235",
+								"lat": "40.08273657"
+							},
+							"id": 40105
+						},
+						{
+							"company_id": 8729,
+							"name": "REI - Carle Place - Curbside available",
+							"location": {
+								"lon": "-73.61784790",
+								"lat": "40.74417230"
+							},
+							"id": 11045
+						},
+						{
+							"company_id": 8729,
+							"name": "REI - Southcenter-Tukwila - Curbside available",
+							"location": {
+								"lon": "-122.25311200",
+								"lat": "47.45641778"
+							},
+							"id": 11159
+						},
+						{
+							"company_id": 12021,
+							"name": "Momo Sports Granby",
+							"location": {
+								"lon": "-72.74818261",
+								"lat": "45.42091965"
+							},
+							"id": 19942
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Shashka Stretch Jacket Women's",
+					"unit_msrp": "499",
+					"unit_msrp_max": "499",
+					"__pdp__": {
+						"id": "793190"
+					},
+					"long_description": "N70p GORE-TEX INFINIUM fabric with 4-way mechanical stretch blocks wind, resists rain and snow, is highly breathable | PFCec-free DWR (Durable Water Repellent) finish provides water resistance without harmful chemicals | abric's 4-way stretch provides mobility and freedom | Helmet compatible StormHood | Embedded RECCO reflector | Pit zippers for rapid ventilation | Integrated powder skirt with stretch panel and gripper elastic | Hand pockets, single chest pocket, sleeve pocket, internal mesh pockets and security pocket"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "405146",
+				"_score": 57.87564,
+				"_source": {
+					"type": "_doc",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Sunset_2007-1.jpg",
+					"category_name": "Day Packs / Bookbags",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Mall of America",
+							"location": {
+								"lon": "-93.24421528",
+								"lat": "44.85568173"
+							},
+							"id": 37177
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Soho",
+							"location": {
+								"lon": "-74.00231812",
+								"lat": "40.72464867"
+							},
+							"id": 104259
+						},
+						{
+							"company_id": 12017,
+							"name": "Mike's Bike Shop",
+							"location": {
+								"lon": "-64.70098106",
+								"lat": "46.10273755"
+							},
+							"id": 19938
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Mantis 26L Backpack",
+					"downloadLink": "https://www.google.com/",
+					"callLink": "https://www.google.com/",
+					"unit_msrp": "149",
+					"unit_msrp_max": "149",
+					"__pdp__": {
+						"id": "405146"
+					},
+					"long_description": "Transitioning effortlessly from trail to urban use, the versatile Mantis 26 delivers technical performance with a clean Arc'teryx aesthetic. The drawbridge opening allows easy access to the large main compartment, multiple pockets provide intelligent organization, and an internal sleeve carries a laptop on workdays, hydration bladder on weekends. The padded back, frame sheet and aluminum stay combine for a comfortable carry, and external side pockets hold water bottles, gloves, or a windshell."
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					],
+					"long_description": [
+						"effortlessly from trail to urban use, the versatile Mantis 26 delivers technical performance with a clean <b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "518549",
+				"_score": 57.391457,
+				"_source": {
+					"type": "_doc",
+					"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sunset-quotes-21-1586531574.jpg",
+					"category_name": "Clothing Tops",
+					"stores": [
+						{
+							"company_id": 119105,
+							"name": "Arc'teryx Parndorf Outlet",
+							"location": {
+								"lon": "16.85025079",
+								"lat": "47.97696599"
+							},
+							"id": 84719
+						},
+						{
+							"company_id": 1273,
+							"name": "Pedigree Ski Shop Inc",
+							"location": {
+								"lon": "-73.76278121",
+								"lat": "41.02450672"
+							},
+							"id": 933
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Roadless Trip T-Shirt SS Men's",
+					"unit_msrp": "35",
+					"unit_msrp_max": "35",
+					"__pdp__": {
+						"id": "518549"
+					},
+					"long_description": "Lightweight, comfortable T-shirt made with organically grown cotton featuring a roadless trip graphic on the front."
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "548260",
+				"_score": 74.433075,
+				"_source": {
+					"type": "_topResults",
+					"category_name": "Clothing Tops",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Upper West Side",
+							"location": {
+								"lon": "-73.98151212",
+								"lat": "40.77466804"
+							},
+							"id": 214963
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Component T-Shirt SS Men's",
+					"question": "What is a computer?",
+					"unit_msrp": "35",
+					"unit_msrp_max": "35",
+					"downloadLink": "https://www.google.com/",
+					"callLink": "https://www.google.com/",
+					"__pdp__": {
+						"id": "548260"
+					},
+					"long_description": "Cool, comfortable men's tee made from 100% organically grown cotton. Features a stylized Arc'teryx graphic on the back, classic bird logo on the front.",
+					"link": "https://www.google.com/"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					],
+					"long_description": [
+						"Features a stylized <b>Arc'teryx</b> graphic on the back, classic bird logo on the front."
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "548260",
+				"_score": 74.433075,
+				"_source": {
+					"type": "_topResults",
+					"category_name": "Clothing Tops",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Upper West Side",
+							"location": {
+								"lon": "-73.98151212",
+								"lat": "40.77466804"
+							},
+							"id": 214963
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Component T-Shirt SS Men's",
+					"question": "What is a computer?",
+					"unit_msrp": "35",
+					"unit_msrp_max": "35",
+					"downloadLink": "https://www.google.com/",
+					"__pdp__": {
+						"id": "548260"
+					},
+					"long_description": "Cool, comfortable men's tee made from 100% organically grown cotton. Features a stylized Arc'teryx graphic on the back, classic bird logo on the front.",
+					"link": "https://www.google.com/"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					],
+					"long_description": [
+						"Features a stylized <b>Arc'teryx</b> graphic on the back, classic bird logo on the front."
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "548260",
+				"_score": 74.433075,
+				"_source": {
+					"type": "_video",
+					"category_name": "Clothing Tops",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Sunset_2007-1.jpg",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Upper West Side",
+							"location": {
+								"lon": "-73.98151212",
+								"lat": "40.77466804"
+							},
+							"id": 214963
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Component T-Shirt SS Men's",
+					"question": "What is a computer?",
+					"unit_msrp": "35",
+					"unit_msrp_max": "35",
+					"callLink": "https://www.google.com/",
+					"__pdp__": {
+						"id": "548260"
+					},
+					"long_description": "Cool, comfortable men's tee made from 100% organically grown cotton. Features a stylized Arc'teryx graphic on the back, classic bird logo on the front.",
+					"link": "https://www.google.com/",
+					"rating": "4.5",
+					"duration": "5 min"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					],
+					"long_description": [
+						"Features a stylized <b>Arc'teryx</b> graphic on the back, classic bird logo on the front."
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "548260",
+				"_score": 74.433075,
+				"_source": {
+					"type": "_video",
+					"category_name": "Clothing Tops",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Sunset_2007-1.jpg",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Upper West Side",
+							"location": {
+								"lon": "-73.98151212",
+								"lat": "40.77466804"
+							},
+							"id": 214963
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Component T-Shirt SS Men's",
+					"question": "What is a computer?",
+					"unit_msrp": "35",
+					"unit_msrp_max": "35",
+					"callLink": "https://www.google.com/",
+					"__pdp__": {
+						"id": "548260"
+					},
+					"long_description": "Cool, comfortable men's tee made from 100% organically grown cotton. Features a stylized Arc'teryx graphic on the back, classic bird logo on the front.",
+					"link": "https://www.google.com/",
+					"rating": "4.5"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					],
+					"long_description": [
+						"Features a stylized <b>Arc'teryx</b> graphic on the back, classic bird logo on the front."
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "548260",
+				"_score": 74.433075,
+				"_source": {
+					"type": "_video",
+					"category_name": "Clothing Tops",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Sunset_2007-1.jpg",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Upper West Side",
+							"location": {
+								"lon": "-73.98151212",
+								"lat": "40.77466804"
+							},
+							"id": 214963
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Component T-Shirt SS Men's",
+					"question": "What is a computer?",
+					"unit_msrp": "35",
+					"unit_msrp_max": "35",
+					"callLink": "https://www.google.com/",
+					"__pdp__": {
+						"id": "548260"
+					},
+					"long_description": "Cool, comfortable men's tee made from 100% organically grown cotton. Features a stylized Arc'teryx graphic on the back, classic bird logo on the front.",
+					"link": "https://www.google.com/",
+					"duration": "5 min"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					],
+					"long_description": [
+						"Features a stylized <b>Arc'teryx</b> graphic on the back, classic bird logo on the front."
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "548260",
+				"_score": 74.433075,
+				"_source": {
+					"type": "_video",
+					"category_name": "Clothing Tops",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Upper West Side",
+							"location": {
+								"lon": "-73.98151212",
+								"lat": "40.77466804"
+							},
+							"id": 214963
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Component T-Shirt SS Men's",
+					"question": "What is a computer?",
+					"unit_msrp": "35",
+					"unit_msrp_max": "35",
+					"callLink": "https://www.google.com/",
+					"__pdp__": {
+						"id": "548260"
+					},
+					"long_description": "Cool, comfortable men's tee made from 100% organically grown cotton. Features a stylized Arc'teryx graphic on the back, classic bird logo on the front.",
+					"link": "https://www.google.com/",
+					"rating": "4.5",
+					"duration": "5 min"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					],
+					"long_description": [
+						"Features a stylized <b>Arc'teryx</b> graphic on the back, classic bird logo on the front."
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "548260",
+				"_score": 74.433075,
+				"_source": {
+					"type": "_interest",
+					"category_name": "Clothing Tops",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Sunset_2007-1.jpg",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Upper West Side",
+							"location": {
+								"lon": "-73.98151212",
+								"lat": "40.77466804"
+							},
+							"id": 214963
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Component T-Shirt SS Men's",
+					"question": "What is a computer?",
+					"unit_msrp": "35",
+					"unit_msrp_max": "35",
+					"callLink": "https://www.google.com/",
+					"__pdp__": {
+						"id": "548260"
+					},
+					"long_description": "Cool, comfortable men's tee made from 100% organically grown cotton. Features a stylized Arc'teryx graphic on the back, classic bird logo on the front.",
+					"link": "https://www.google.com/",
+					"time": " 7 min"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					],
+					"long_description": [
+						"Features a stylized <b>Arc'teryx</b> graphic on the back, classic bird logo on the front."
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "548260",
+				"_score": 74.433075,
+				"_source": {
+					"type": "_interest",
+					"category_name": "Clothing Tops",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Sunset_2007-1.jpg",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Upper West Side",
+							"location": {
+								"lon": "-73.98151212",
+								"lat": "40.77466804"
+							},
+							"id": 214963
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Component T-Shirt SS Men's",
+					"question": "What is a computer?",
+					"unit_msrp": "35",
+					"unit_msrp_max": "35",
+					"callLink": "https://www.google.com/",
+					"__pdp__": {
+						"id": "548260"
+					},
+					"long_description": "Cool, comfortable men's tee made from 100% organically grown cotton. Features a stylized Arc'teryx graphic on the back, classic bird logo on the front.",
+					"link": "https://www.google.com/"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					],
+					"long_description": [
+						"Features a stylized <b>Arc'teryx</b> graphic on the back, classic bird logo on the front."
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "548260",
+				"_score": 74.433075,
+				"_source": {
+					"type": "_interest",
+					"category_name": "Clothing Tops",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Sunset_2007-1.jpg",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Upper West Side",
+							"location": {
+								"lon": "-73.98151212",
+								"lat": "40.77466804"
+							},
+							"id": 214963
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Component T-Shirt SS Men's",
+					"question": "What is a computer?",
+					"unit_msrp": "35",
+					"unit_msrp_max": "35",
+					"callLink": "https://www.google.com/",
+					"__pdp__": {
+						"id": "548260"
+					},
+					"long_description": "Cool, comfortable men's tee made from 100% organically grown cotton. Features a stylized Arc'teryx graphic on the back, classic bird logo on the front.",
+					"link": "https://www.google.com/"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					],
+					"long_description": [
+						"Features a stylized <b>Arc'teryx</b> graphic on the back, classic bird logo on the front."
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "548260",
+				"_score": 74.433075,
+				"_source": {
+					"type": "_interest",
+					"category_name": "Clothing Tops",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Sunset_2007-1.jpg",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Upper West Side",
+							"location": {
+								"lon": "-73.98151212",
+								"lat": "40.77466804"
+							},
+							"id": 214963
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Component T-Shirt SS Men's",
+					"question": "What is a computer?",
+					"unit_msrp": "35",
+					"unit_msrp_max": "35",
+					"callLink": "https://www.google.com/",
+					"__pdp__": {
+						"id": "548260"
+					},
+					"long_description": "Cool, comfortable men's tee made from 100% organically grown cotton. Features a stylized Arc'teryx graphic on the back, classic bird logo on the front.",
+					"link": "https://www.google.com/"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					],
+					"long_description": [
+						"Features a stylized <b>Arc'teryx</b> graphic on the back, classic bird logo on the front."
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "548260",
+				"_score": 74.433075,
+				"_source": {
+					"type": "_topResults",
+					"category_name": "Clothing Tops",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Sunset_2007-1.jpg",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Upper West Side",
+							"location": {
+								"lon": "-73.98151212",
+								"lat": "40.77466804"
+							},
+							"id": 214963
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Component T-Shirt SS Men's",
+					"question": "What is a computer?",
+					"unit_msrp": "35",
+					"unit_msrp_max": "35",
+					"callLink": "https://www.google.com/",
+					"__pdp__": {
+						"id": "548260"
+					},
+					"long_description": "Cool, comfortable men's tee made from 100% organically grown cotton. Features a stylized Arc'teryx graphic on the back, classic bird logo on the front.",
+					"link": "https://www.google.com/"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					],
+					"long_description": [
+						"Features a stylized <b>Arc'teryx</b> graphic on the back, classic bird logo on the front."
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "932418",
+				"_score": 56.844902,
+				"_source": {
+					"type": "_doc",
+					"image": "https://via.placeholder.com/150",
+					"category_name": "Long Sleeve Shirts",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Corte Madera - OPEN NOW",
+							"location": {
+								"lon": "-122.51445400",
+								"lat": "37.92950200"
+							},
+							"id": 223743
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Broadway - OPEN NOW",
+							"location": {
+								"lon": "-73.99843000",
+								"lat": "40.72364000"
+							},
+							"id": 225531
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Santana Row",
+							"location": {
+								"lon": "-121.94747900",
+								"lat": "37.32094600"
+							},
+							"id": 213821
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Downword LS T-shirt Men's",
+					"unit_msrp": "69",
+					"unit_msrp_max": "69",
+					"__pdp__": {
+						"id": "932418"
+					},
+					"long_description": "Premium Pima cotton - 100% organically grown - elevates this tee. Long sleeved, and featuring a logo graphic, its comfort is naturally luxurious."
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "793168",
+				"_score": 56.462685,
+				"_source": {
+					"type": "_doc",
+					"category_name": "Pants",
+					"stores": [
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Montréal",
+							"location": {
+								"lon": "-73.57743500",
+								"lat": "45.49575200"
+							},
+							"id": 38383
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc’teryx Yorkdale",
+							"location": {
+								"lon": "-79.45538130",
+								"lat": "43.72477716"
+							},
+							"id": 51114
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Soho",
+							"location": {
+								"lon": "-74.00231812",
+								"lat": "40.72464867"
+							},
+							"id": 104259
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Cherry Creek",
+							"location": {
+								"lon": "-104.95669172",
+								"lat": "39.72017651"
+							},
+							"id": 37176
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Paltz Cargo Pant",
+					"downloadLink": "https://www.google.com/",
+					"callLink": "https://www.google.com/",
+					"unit_msrp": "250",
+					"unit_msrp_max": "250",
+					"__pdp__": {
+						"id": "793168"
+					},
+					"long_description": "Water Resistant | Two side zippered pockets with TPU wrapped zipper pulls | Two side hand pockets | Adjustable bungee cord at ankles | Braid Lock belt waist closure provides an adjustable fit | Invisible zippered back right pocket | Arc'teryx birg logo at centre back | Arc'teryx wordmark logo on left leg | Zipper fly snap front | Articulated leg pattern for enhanced mobility"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					],
+					"long_description": [
+						"| Braid Lock belt waist closure provides an adjustable fit | Invisible zippered back right pocket | <b>Arc'teryx</b>",
+						"birg logo at centre back | <b>Arc'teryx</b> wordmark logo on left leg | Zipper fly snap front | Articulated"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "548260",
+				"_score": 74.433075,
+				"_source": {
+					"type": "_topResults",
+					"category_name": "Clothing Tops",
+					"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sunset-quotes-21-1586531574.jpg",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Upper West Side",
+							"location": {
+								"lon": "-73.98151212",
+								"lat": "40.77466804"
+							},
+							"id": 214963
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Component T-Shirt SS Men's",
+					"question": "What is a computer?",
+					"unit_msrp": "35",
+					"unit_msrp_max": "35",
+					"callLink": "https://www.google.com/",
+					"__pdp__": {
+						"id": "548260"
+					},
+					"long_description": "Cool, comfortable men's tee made from 100% organically grown cotton. Features a stylized Arc'teryx graphic on the back, classic bird logo on the front.",
+					"link": "https://www.google.com/"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					],
+					"long_description": [
+						"Features a stylized <b>Arc'teryx</b> graphic on the back, classic bird logo on the front."
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "548260",
+				"_score": 74.433075,
+				"_source": {
+					"type": "_topResults",
+					"category_name": "Clothing Tops",
+					"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sunset-quotes-21-1586531574.jpg",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Upper West Side",
+							"location": {
+								"lon": "-73.98151212",
+								"lat": "40.77466804"
+							},
+							"id": 214963
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Component T-Shirt SS Men's",
+					"question": "What is a computer?",
+					"unit_msrp": "35",
+					"unit_msrp_max": "35",
+					"downloadLink": "https://www.google.com/",
+					"callLink": "https://www.google.com/",
+					"__pdp__": {
+						"id": "548260"
+					},
+					"long_description": "Cool, comfortable men's tee made from 100% organically grown cotton. Features a stylized Arc'teryx graphic on the back, classic bird logo on the front.",
+					"link": "https://www.google.com/"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					],
+					"long_description": [
+						"Features a stylized <b>Arc'teryx</b> graphic on the back, classic bird logo on the front."
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "653157",
+				"_score": 56.03743,
+				"_source": {
+					"type": "_doc",
+					"category_name": "Insulated Tops",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Boston ",
+							"location": {
+								"lon": "-71.08721165",
+								"lat": "42.34809694"
+							},
+							"id": 37178
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Seattle ",
+							"location": {
+								"lon": "-122.33649200",
+								"lat": "47.61058780"
+							},
+							"id": 37180
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Stanford Center (Palo Alto) ",
+							"location": {
+								"lon": "-122.17142002",
+								"lat": "37.44303613"
+							},
+							"id": 64075
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Soho",
+							"location": {
+								"lon": "-74.00231812",
+								"lat": "40.72464867"
+							},
+							"id": 104259
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Santana Row",
+							"location": {
+								"lon": "-121.94747900",
+								"lat": "37.32094600"
+							},
+							"id": 213821
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Broadway - OPEN NOW",
+							"location": {
+								"lon": "-73.99843000",
+								"lat": "40.72364000"
+							},
+							"id": 225531
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Chicago Rush Street - NOW OPEN",
+							"location": {
+								"lon": "-87.62733400",
+								"lat": "41.90106200"
+							},
+							"id": 226678
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Mall of America",
+							"location": {
+								"lon": "-93.24421528",
+								"lat": "44.85568173"
+							},
+							"id": 37177
+						},
+						{
+							"company_id": 1192,
+							"name": "Paragon Sports",
+							"location": {
+								"lon": "-73.99055121",
+								"lat": "40.73772667"
+							},
+							"id": 10911
+						},
+						{
+							"company_id": 10852,
+							"name": "Rocky Mountain Ski & Board",
+							"location": {
+								"lon": "-84.37991382",
+								"lat": "33.89980555"
+							},
+							"id": 18199
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx La Brea",
+							"location": {
+								"lon": "-118.34431939",
+								"lat": "34.07193558"
+							},
+							"id": 65212
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Thorsen Parka Men's",
+					"downloadLink": "https://www.google.com/",
+					"callLink": "https://www.google.com/",
+					"unit_msrp": "849",
+					"unit_msrp_max": "849",
+					"__pdp__": {
+						"id": "653157"
+					},
+					"long_description": "Waterproof/breathable GORE-TEX provides protection while Down Contour technology maximizes insulation benefits | Adjustable hood for custom protection; and down neck gasket blocks drafts | Two-way center front zipper | Two hand pockets, 1 exterior chest pocket, 1 interior zip pocket | Cuff gaskets seal out drafts, and below thigh length provides coverage"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "548234",
+				"_score": 55.965477,
+				"_source": {
+					"type": "_doc",
+					"category_name": "Shorts",
+					"stores": [
+						{
+							"company_id": 1638,
+							"name": "Travel Country Outfitters",
+							"location": {
+								"lon": "-81.35395600",
+								"lat": "28.66345000"
+							},
+							"id": 24
+						},
+						{
+							"company_id": 10388,
+							"name": "Escape Route",
+							"location": {
+								"lon": "-123.13323202",
+								"lat": "49.73727815"
+							},
+							"id": 17475
+						},
+						{
+							"company_id": 10388,
+							"name": "Escape Route",
+							"location": {
+								"lon": "-122.95602015",
+								"lat": "50.11938212"
+							},
+							"id": 17476
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Mall of America",
+							"location": {
+								"lon": "-93.24421528",
+								"lat": "44.85568173"
+							},
+							"id": 37177
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Boston ",
+							"location": {
+								"lon": "-71.08721165",
+								"lat": "42.34809694"
+							},
+							"id": 37178
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Bleecker",
+							"location": {
+								"lon": "-74.00412125",
+								"lat": "40.73476674"
+							},
+							"id": 191297
+						},
+						{
+							"company_id": 8729,
+							"name": "REI - Princeton - Curbside available",
+							"location": {
+								"lon": "-74.68470910",
+								"lat": "40.29848670"
+							},
+							"id": 11277
+						},
+						{
+							"company_id": 8730,
+							"name": "Alaska Mountaineering & Hiking",
+							"location": {
+								"lon": "-149.90492246",
+								"lat": "61.19659100"
+							},
+							"id": 10974
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Flatiron",
+							"location": {
+								"lon": "-73.99048180",
+								"lat": "40.73987040"
+							},
+							"id": 193894
+						},
+						{
+							"company_id": 8729,
+							"name": "REI - Northville - Curbside available",
+							"location": {
+								"lon": "-83.43461367",
+								"lat": "42.41306949"
+							},
+							"id": 11112
+						},
+						{
+							"company_id": 8729,
+							"name": "REI - Pineville - Curbside available",
+							"location": {
+								"lon": "-80.87703500",
+								"lat": "35.08096700"
+							},
+							"id": 11120
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Cherry Creek",
+							"location": {
+								"lon": "-104.95669172",
+								"lat": "39.72017651"
+							},
+							"id": 37176
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Soho",
+							"location": {
+								"lon": "-74.00231812",
+								"lat": "40.72464867"
+							},
+							"id": 104259
+						},
+						{
+							"company_id": 8729,
+							"name": "REI - Roseville, MN - Curbside available",
+							"location": {
+								"lon": "-93.18291527",
+								"lat": "45.01598738"
+							},
+							"id": 11115
+						},
+						{
+							"company_id": 8729,
+							"name": "REI - Durham - Curbside available",
+							"location": {
+								"lon": "-78.93591293",
+								"lat": "35.90313588"
+							},
+							"id": 11118
+						},
+						{
+							"company_id": 8729,
+							"name": "REI - Soho Flagship - Curbside available",
+							"location": {
+								"lon": "-73.99521121",
+								"lat": "40.72484667"
+							},
+							"id": 11129
+						},
+						{
+							"company_id": 8729,
+							"name": "REI - Seattle Flagship - Curbside available",
+							"location": {
+								"lon": "-122.32962200",
+								"lat": "47.62037802"
+							},
+							"id": 11155
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Kapta Short 3.5\"  Women's",
+					"downloadLink": "https://www.google.com/",
+					"callLink": "https://www.google.com/",
+					"unit_msrp": "75",
+					"unit_msrp_max": "75",
+					"__pdp__": {
+						"id": "548234"
+					},
+					"long_description": "Running all day takes you farther along the trail and deeper into the wild around you. Your kit - footwear, hydration vest, clothing - needs to work as a system, freeing you to go far and fast. The Kapta Short combines advanced design, materials and patterning in a performance short for your longest runs. The light, breathable Teslin fabric is durable enough for mountain use and stretches for freedom on the move, and the generous 3/4 side slit and short 3.5 inch inseam allow for an easy stride."
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "211329",
+				"_score": 55.26949,
+				"_source": {
+					"type": "_doc",
+					"category_name": "Insulated Tops",
+					"stores": [
+						{
+							"company_id": 10411,
+							"name": "Take it Outside",
+							"location": {
+								"lon": "-63.27603104",
+								"lat": "45.36327432"
+							},
+							"id": 17562
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Mall of America",
+							"location": {
+								"lon": "-93.24421528",
+								"lat": "44.85568173"
+							},
+							"id": 37177
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Flatiron",
+							"location": {
+								"lon": "-73.99048180",
+								"lat": "40.73987040"
+							},
+							"id": 193894
+						},
+						{
+							"company_id": 1638,
+							"name": "Travel Country Outfitters",
+							"location": {
+								"lon": "-81.35395600",
+								"lat": "28.66345000"
+							},
+							"id": 24
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Camosun Parka Men's",
+					"unit_msrp": "649",
+					"unit_msrp_max": "649",
+					"__pdp__": {
+						"id": "211329"
+					},
+					"long_description": "The Camosun is a modern, refined parka streamlined for urban environments. Stylish, warm and stormproof, the Camosun Parka delivers truly waterproof, windproof and breathable, weather protection on the harshest days. The Camosun uses an N150p-x GORE-TEX 2L face fabric that has a soft hand, supple feel and longwearing performance. Down Composite Mapping effectively places down and synthetic insulations where they deliver the most benefit. Lofty 750 fill power European Goose down lines the core and sleeves where loft is most needed. Because it retains warmth when wet, Coreloft synthetic insulation is used at the cuffs, hood and under the arms, areas prone to contact with moisture. Down Contour Construction allows the down to form to the body, enhancing thermal performance with a trimmer, more streamlined fit. The Coreloft insulated hood adds protection and warmth."
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "793070",
+				"_score": 55.231438,
+				"_source": {
+					"type": "_doc",
+					"image": "https://upload.wikimedia.org/wikipedia/commons/5/58/Sunset_2007-1.jpg",
+					"category_name": "Short Sleeve Shirts",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Boston ",
+							"location": {
+								"lon": "-71.08721165",
+								"lat": "42.34809694"
+							},
+							"id": 37178
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Montréal",
+							"location": {
+								"lon": "-73.57743500",
+								"lat": "45.49575200"
+							},
+							"id": 38383
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx La Brea",
+							"location": {
+								"lon": "-118.34431939",
+								"lat": "34.07193558"
+							},
+							"id": 65212
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Cherry Creek",
+							"location": {
+								"lon": "-104.95669172",
+								"lat": "39.72017651"
+							},
+							"id": 37176
+						},
+						{
+							"company_id": 9915,
+							"name": "True Outdoors Kamloops",
+							"location": {
+								"lon": "-120.35835197",
+								"lat": "50.66328301"
+							},
+							"id": 17575
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Toronto - Queen Street",
+							"location": {
+								"lon": "-79.39222130",
+								"lat": "43.64937715"
+							},
+							"id": 38382
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Flatiron",
+							"location": {
+								"lon": "-73.99048180",
+								"lat": "40.73987040"
+							},
+							"id": 193894
+						},
+						{
+							"company_id": 12017,
+							"name": "Mike's Bike Shop",
+							"location": {
+								"lon": "-64.70098106",
+								"lat": "46.10273755"
+							},
+							"id": 19938
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Upper West Side",
+							"location": {
+								"lon": "-73.98151212",
+								"lat": "40.77466804"
+							},
+							"id": 214963
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Emblem Patch T-Shirt Ss Women's",
+					"downloadLink": "https://www.google.com/",
+					"callLink": "https://www.google.com/",
+					"unit_msrp": "35",
+					"unit_msrp_max": "35",
+					"__pdp__": {
+						"id": "793070"
+					},
+					"long_description": "Men's specific fit | Crew neck | Bio-washed for softness and longevity"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "405077",
+				"_score": 54.876392,
+				"_source": {
+					"type": "_doc",
+					"image": "https://via.placeholder.com/150",
+					"category_name": "Fleece Tops",
+					"stores": [
+						{
+							"company_id": 151,
+							"name": "Buckman's Ski and Snowboard Shop",
+							"location": {
+								"lon": "-75.23841233",
+								"lat": "40.23346592"
+							},
+							"id": 4796
+						},
+						{
+							"company_id": 151,
+							"name": "Buckman's Ski and Snowboard Shop",
+							"location": {
+								"lon": "-75.38755124",
+								"lat": "40.08623657"
+							},
+							"id": 4791
+						},
+						{
+							"company_id": 9647,
+							"name": "Sojourn Outdoors",
+							"location": {
+								"lon": "-79.68575131",
+								"lat": "44.32853726"
+							},
+							"id": 14854
+						},
+						{
+							"company_id": 12054,
+							"name": "Ski Cellar Snowboard - South",
+							"location": {
+								"lon": "-114.07218690",
+								"lat": "51.00218356"
+							},
+							"id": 20005
+						},
+						{
+							"company_id": 119105,
+							"name": "Arc'teryx Parndorf Outlet",
+							"location": {
+								"lon": "16.85025079",
+								"lat": "47.97696599"
+							},
+							"id": 84719
+						},
+						{
+							"company_id": 151,
+							"name": "Buckman's Ski and Snowboard Shop",
+							"location": {
+								"lon": "-75.92923124",
+								"lat": "40.38636617"
+							},
+							"id": 4793
+						},
+						{
+							"company_id": 8760,
+							"name": "Robinson's Outdoor Store",
+							"location": {
+								"lon": "-123.36575202",
+								"lat": "48.42678793"
+							},
+							"id": 11180
+						},
+						{
+							"company_id": 10192,
+							"name": "Gorham Bike and Ski, Portland",
+							"location": {
+								"lon": "-70.26789020",
+								"lat": "43.65316440"
+							},
+							"id": 16717
+						},
+						{
+							"company_id": 12010,
+							"name": "Magasin Latulippe",
+							"location": {
+								"lon": "-71.24474117",
+								"lat": "46.80993767"
+							},
+							"id": 19930
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Mall of America",
+							"location": {
+								"lon": "-93.24421528",
+								"lat": "44.85568173"
+							},
+							"id": 37177
+						},
+						{
+							"company_id": 119105,
+							"name": "アークテリクス神戸ブランドストア",
+							"location": {
+								"lon": "135.19262660",
+								"lat": "34.68642430"
+							},
+							"id": 65318
+						},
+						{
+							"company_id": 151,
+							"name": "Buckman's Ski and Snowboard Shop",
+							"location": {
+								"lon": "-75.49184124",
+								"lat": "40.64303666"
+							},
+							"id": 4788
+						},
+						{
+							"company_id": 23747,
+							"name": "Ski Barn",
+							"location": {
+								"lon": "-74.08211830",
+								"lat": "40.97775120"
+							},
+							"id": 13787
+						},
+						{
+							"company_id": 23747,
+							"name": "Ski Barn",
+							"location": {
+								"lon": "-74.26781217",
+								"lat": "40.92866706"
+							},
+							"id": 13790
+						},
+						{
+							"company_id": 23747,
+							"name": "Ski Barn",
+							"location": {
+								"lon": "-74.70431224",
+								"lat": "40.27586599"
+							},
+							"id": 189818
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Kyanite Jacket Women's",
+					"unit_msrp": "159",
+					"unit_msrp_max": "159",
+					"__pdp__": {
+						"id": "405077"
+					},
+					"long_description": "The highly versatile Kyanite Jacket performs as a mid layer or standalone piece, and functions across a range of activities. Delivering warmth, mobility and moisture management, Polartec Power Stretch Pro allows airflow for thermal regulation and has a durable nylon face for abrasion resistance. The fabric's four-way stretch combines with articulated patterning and gusseted underarms for exceptional freedom of movement, and the women's specific trim fit hugs the body and layers easily under a shell."
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "653156",
+				"_score": 54.45104,
+				"_source": {
+					"type": "_doc",
+					"image": "https://via.placeholder.com/150",
+					"category_name": "Insulated Tops",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Mall of America",
+							"location": {
+								"lon": "-93.24421528",
+								"lat": "44.85568173"
+							},
+							"id": 37177
+						},
+						{
+							"company_id": 1638,
+							"name": "Travel Country Outfitters",
+							"location": {
+								"lon": "-81.35395600",
+								"lat": "28.66345000"
+							},
+							"id": 24
+						},
+						{
+							"company_id": 1166,
+							"name": "Moosejaw",
+							"location": {
+								"lon": "-83.74827137",
+								"lat": "42.27877693"
+							},
+							"id": 338
+						},
+						{
+							"company_id": 1166,
+							"name": "Moosejaw",
+							"location": {
+								"lon": "-83.20743136",
+								"lat": "42.54140697"
+							},
+							"id": 339
+						},
+						{
+							"company_id": 1166,
+							"name": "Moosejaw",
+							"location": {
+								"lon": "-84.47674138",
+								"lat": "42.73347700"
+							},
+							"id": 341
+						},
+						{
+							"company_id": 1166,
+							"name": "Moosejaw",
+							"location": {
+								"lon": "-82.91636136",
+								"lat": "42.39033695"
+							},
+							"id": 342
+						},
+						{
+							"company_id": 1166,
+							"name": "Moosejaw",
+							"location": {
+								"lon": "-94.59277155",
+								"lat": "39.04206640"
+							},
+							"id": 345
+						},
+						{
+							"company_id": 1200,
+							"name": "Ramsey Outdoor Store",
+							"location": {
+								"lon": "-74.12764121",
+								"lat": "41.06336673"
+							},
+							"id": 537
+						},
+						{
+							"company_id": 3350,
+							"name": "Sun & Ski",
+							"location": {
+								"lon": "-95.49043156",
+								"lat": "29.73871487"
+							},
+							"id": 1779
+						},
+						{
+							"company_id": 9321,
+							"name": "Escape Outdoors Bellevue Square",
+							"location": {
+								"lon": "-122.20171200",
+								"lat": "47.61943780"
+							},
+							"id": 13661
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Cherry Creek",
+							"location": {
+								"lon": "-104.95669172",
+								"lat": "39.72017651"
+							},
+							"id": 37176
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Boston ",
+							"location": {
+								"lon": "-71.08721165",
+								"lat": "42.34809694"
+							},
+							"id": 37178
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Seattle ",
+							"location": {
+								"lon": "-122.33649200",
+								"lat": "47.61058780"
+							},
+							"id": 37180
+						},
+						{
+							"company_id": 1166,
+							"name": "Moosejaw",
+							"location": {
+								"lon": "-85.67012140",
+								"lat": "42.95589704"
+							},
+							"id": 63086
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Stanford Center (Palo Alto) ",
+							"location": {
+								"lon": "-122.17142002",
+								"lat": "37.44303613"
+							},
+							"id": 64075
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx La Brea",
+							"location": {
+								"lon": "-118.34431939",
+								"lat": "34.07193558"
+							},
+							"id": 65212
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Soho",
+							"location": {
+								"lon": "-74.00231812",
+								"lat": "40.72464867"
+							},
+							"id": 104259
+						},
+						{
+							"company_id": 85057,
+							"name": "Sporthaus Schuster",
+							"location": {
+								"lon": "11.57418964",
+								"lat": "48.13678867"
+							},
+							"id": 133019
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Bleecker",
+							"location": {
+								"lon": "-74.00412125",
+								"lat": "40.73476674"
+							},
+							"id": 191297
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx San Francisco ",
+							"location": {
+								"lon": "-122.40522005",
+								"lat": "37.78996191"
+							},
+							"id": 193893
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Flatiron",
+							"location": {
+								"lon": "-73.99048180",
+								"lat": "40.73987040"
+							},
+							"id": 193894
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Santana Row",
+							"location": {
+								"lon": "-121.94747900",
+								"lat": "37.32094600"
+							},
+							"id": 213821
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Upper West Side",
+							"location": {
+								"lon": "-73.98151212",
+								"lat": "40.77466804"
+							},
+							"id": 214963
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Corte Madera - OPEN NOW",
+							"location": {
+								"lon": "-122.51445400",
+								"lat": "37.92950200"
+							},
+							"id": 223743
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Broadway - OPEN NOW",
+							"location": {
+								"lon": "-73.99843000",
+								"lat": "40.72364000"
+							},
+							"id": 225531
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Chicago Rush Street - NOW OPEN",
+							"location": {
+								"lon": "-87.62733400",
+								"lat": "41.90106200"
+							},
+							"id": 226678
+						},
+						{
+							"company_id": 1166,
+							"name": "Moosejaw",
+							"location": {
+								"lon": "-83.04893136",
+								"lat": "42.33383694"
+							},
+							"id": 340
+						},
+						{
+							"company_id": 1145,
+							"name": "Gearhead Outfitters Evanston",
+							"location": {
+								"lon": "-87.68192711",
+								"lat": "42.04696796"
+							},
+							"id": 10853
+						},
+						{
+							"company_id": 1192,
+							"name": "Paragon Sports",
+							"location": {
+								"lon": "-73.99055121",
+								"lat": "40.73772667"
+							},
+							"id": 10911
+						},
+						{
+							"company_id": 1151,
+							"name": "High Country Outfitters - Buckhead",
+							"location": {
+								"lon": "-84.38129138",
+								"lat": "33.86184555"
+							},
+							"id": 487
+						},
+						{
+							"company_id": 1200,
+							"name": "Ramsey Outdoor Store",
+							"location": {
+								"lon": "-74.64906122",
+								"lat": "40.86819670"
+							},
+							"id": 1982
+						},
+						{
+							"company_id": 8729,
+							"name": "REI - Salt Lake City - Curbside available",
+							"location": {
+								"lon": "-111.80109600",
+								"lat": "40.70076190"
+							},
+							"id": 11262
+						},
+						{
+							"company_id": 1145,
+							"name": "Gearhead Outfitters Lincoln Square",
+							"location": {
+								"lon": "-87.68714367",
+								"lat": "41.96726876"
+							},
+							"id": 26940
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Therme Parka Men's",
+					"unit_msrp": "699",
+					"unit_msrp_max": "699",
+					"__pdp__": {
+						"id": "653156"
+					},
+					"long_description": "P75d 2L GORE-TEX fabric gives waterproof/breathable protection | Down Contour Composite construction optimizes insulation benefits | *Hood and neck gasket utilizes synthetic insulation, and gives additonal warmth and moisture management | *Updated style lines for a more relaxed, urban fit | Adjustable insulated hood adds protection | *Two-way WaterTight Vislon zipper with a snap placket | Internal cuff gaskets seal out drafs | Two zippered hand pockets , one external and one internal chest pocket"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "811333",
+				"_score": 54.036892,
+				"_source": {
+					"type": "_doc",
+					"image": "https://via.placeholder.com/150",
+					"category_name": "Long Sleeve Shirts",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Boston ",
+							"location": {
+								"lon": "-71.08721165",
+								"lat": "42.34809694"
+							},
+							"id": 37178
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Vancouver ",
+							"location": {
+								"lon": "-123.12345202",
+								"lat": "49.28321807"
+							},
+							"id": 65211
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx La Brea",
+							"location": {
+								"lon": "-118.34431939",
+								"lat": "34.07193558"
+							},
+							"id": 65212
+						},
+						{
+							"company_id": 121951,
+							"name": "Arc'teryx Piccadilly ",
+							"location": {
+								"lon": "-0.13535222",
+								"lat": "51.50929844"
+							},
+							"id": 65315
+						},
+						{
+							"company_id": 119105,
+							"name": "アークテリクス神戸ブランドストア",
+							"location": {
+								"lon": "135.19262660",
+								"lat": "34.68642430"
+							},
+							"id": 65318
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Soho",
+							"location": {
+								"lon": "-74.00231812",
+								"lat": "40.72464867"
+							},
+							"id": 104259
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Montréal",
+							"location": {
+								"lon": "-73.57743500",
+								"lat": "45.49575200"
+							},
+							"id": 38383
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc’teryx Yorkdale",
+							"location": {
+								"lon": "-79.45538130",
+								"lat": "43.72477716"
+							},
+							"id": 51114
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx San Francisco ",
+							"location": {
+								"lon": "-122.40522005",
+								"lat": "37.78996191"
+							},
+							"id": 193893
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Flatiron",
+							"location": {
+								"lon": "-73.99048180",
+								"lat": "40.73987040"
+							},
+							"id": 193894
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Veilance Allo Shirt Jacket Women's",
+					"unit_msrp": "450",
+					"unit_msrp_max": "450",
+					"__pdp__": {
+						"id": "811333"
+					},
+					"long_description": "Simplicity of design. Performance fabric. Versatility with modern style. Lightweight overshirt with a relaxed fit offers comfort and protection in mild weather. Polartec NeoShell resists wind, repels water, breathes. Stretch provides comfort and freedom to move."
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "811293",
+				"_score": 53.996166,
+				"_source": {
+					"type": "_doc",
+					"image": "https://via.placeholder.com/150",
+					"category_name": "Insulated Tops",
+					"stores": [
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Vancouver ",
+							"location": {
+								"lon": "-123.12345202",
+								"lat": "49.28321807"
+							},
+							"id": 65211
+						},
+						{
+							"company_id": 119105,
+							"name": "アークテリクス原宿ブランドストア",
+							"location": {
+								"lon": "139.70464400",
+								"lat": "35.66730800"
+							},
+							"id": 65322
+						},
+						{
+							"company_id": 121951,
+							"name": "Arc'teryx Piccadilly ",
+							"location": {
+								"lon": "-0.13535222",
+								"lat": "51.50929844"
+							},
+							"id": 65315
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Soho",
+							"location": {
+								"lon": "-74.00231812",
+								"lat": "40.72464867"
+							},
+							"id": 104259
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Range IS Jacket Men's",
+					"unit_msrp": "1000",
+					"unit_msrp_max": "1000",
+					"__pdp__": {
+						"id": "811293"
+					},
+					"long_description": "A classic bomber silhouette constructed from updated GORE-TEX PRO Most Rugged and our most breathable insulation package. Offers warmth and weather protection designed for everyday wear."
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "811288",
+				"_score": 53.93074,
+				"_source": {
+					"type": "_faq",
+					"image": "https://via.placeholder.com/150",
+					"category_name": "Hardshell Tops",
+					"stores": [
+						{
+							"company_id": 119105,
+							"name": "アークテリクス原宿ブランドストア",
+							"location": {
+								"lon": "139.70464400",
+								"lat": "35.66730800"
+							},
+							"id": 65322
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Vancouver ",
+							"question": "How to build a computer?",
+							"location": {
+								"lon": "-123.12345202",
+								"lat": "49.28321807"
+							},
+							"id": 65211
+						},
+						{
+							"company_id": 119105,
+							"name": "アークテリクス神戸ブランドストア",
+							"location": {
+								"lon": "135.19262660",
+								"lat": "34.68642430"
+							},
+							"id": 65318
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Soho",
+							"location": {
+								"lon": "-74.00231812",
+								"lat": "40.72464867"
+							},
+							"id": 104259
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Veilance Deploy Lt Jacket Men's",
+					"question": "Where can I get a computer?",
+					"unit_msrp": "750",
+					"unit_msrp_max": "750",
+					"__pdp__": {
+						"id": "811288"
+					},
+					"long_description": "A super lightweight hooded jacket in GORE-TEX's lightest 3 layer C-KNIT is designed with a molded front zipper that curves away from the face."
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "793167",
+				"_score": 53.901806,
+				"_source": {
+					"type": "_faq",
+					"image": "https://via.placeholder.com/150",
+					"category_name": "Insulated Tops",
+					"stores": [
+						{
+							"company_id": 2363,
+							"name": "Outdoor Gear Exchange",
+							"location": {
+								"lon": "-73.21322120",
+								"lat": "44.47905729"
+							},
+							"id": 620
+						},
+						{
+							"company_id": 9023,
+							"name": "Maine Sport Outfitters",
+							"question": "How much does it cost to build a computer?",
+							"location": {
+								"lon": "-69.08017113",
+								"lat": "44.19207240"
+							},
+							"id": 11542
+						},
+						{
+							"company_id": 9525,
+							"name": "Basin Ski, Ride & Bike",
+							"location": {
+								"lon": "-72.79431119",
+								"lat": "43.63679715"
+							},
+							"id": 14307
+						},
+						{
+							"company_id": 121951,
+							"name": "Arc'teryx Piccadilly ",
+							"location": {
+								"lon": "-0.13535222",
+								"lat": "51.50929844"
+							},
+							"id": 65315
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Soho",
+							"location": {
+								"lon": "-74.00231812",
+								"lat": "40.72464867"
+							},
+							"id": 104259
+						},
+						{
+							"company_id": 85057,
+							"name": "Sporthaus Schuster",
+							"location": {
+								"lon": "11.57418964",
+								"lat": "48.13678867"
+							},
+							"id": 133019
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Broadway - OPEN NOW",
+							"location": {
+								"lon": "-73.99843000",
+								"lat": "40.72364000"
+							},
+							"id": 225531
+						},
+						{
+							"company_id": 165,
+							"name": "Equipe Sport: Stratton - Rawsonville",
+							"location": {
+								"lon": "-72.84011193",
+								"lat": "43.14597069"
+							},
+							"id": 760
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Montréal",
+							"location": {
+								"lon": "-73.57743500",
+								"lat": "45.49575200"
+							},
+							"id": 38383
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc’teryx Yorkdale",
+							"location": {
+								"lon": "-79.45538130",
+								"lat": "43.72477716"
+							},
+							"id": 51114
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Stanford Center (Palo Alto) ",
+							"location": {
+								"lon": "-122.17142002",
+								"lat": "37.44303613"
+							},
+							"id": 64075
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Vancouver ",
+							"location": {
+								"lon": "-123.12345202",
+								"lat": "49.28321807"
+							},
+							"id": 65211
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Mall of America",
+							"location": {
+								"lon": "-93.24421528",
+								"lat": "44.85568173"
+							},
+							"id": 37177
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Kole Down Jacket Women's",
+					"unit_msrp": "340",
+					"unit_msrp_max": "340",
+					"__pdp__": {
+						"id": "793167"
+					},
+					"long_description": "Nylon/Spandex double weave fabric is downproof and durable | FC0 DWR finish repels moisture | 750-Fill RDS down fill for lightweight, efficient warmth | Engineered woven baffles reduce down leakage and extend durability | Stretchy stitchless down fabric for comfort and mobility | High collar provides extra warmth | Brushed poly/wool fleece side panels for breathability and comfort | Two zippered hand pockets with cozy brushed lining"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "450107",
+				"_score": 53.87799,
+				"_source": {
+					"type": "_faq",
+					"image": "https://via.placeholder.com/150",
+					"category_name": "Clothing Accessories",
+					"stores": [
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Whistler ",
+							"location": {
+								"lon": "-122.95607970",
+								"lat": "50.11869180"
+							},
+							"id": 19823
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Mall of America",
+							"question": "Where to find computer parts?",
+							"location": {
+								"lon": "-93.24421528",
+								"lat": "44.85568173"
+							},
+							"id": 37177
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Boston ",
+							"location": {
+								"lon": "-71.08721165",
+								"lat": "42.34809694"
+							},
+							"id": 37178
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Seattle ",
+							"location": {
+								"lon": "-122.33649200",
+								"lat": "47.61058780"
+							},
+							"id": 37180
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Toronto - Queen Street",
+							"location": {
+								"lon": "-79.39222130",
+								"lat": "43.64937715"
+							},
+							"id": 38382
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Montréal",
+							"location": {
+								"lon": "-73.57743500",
+								"lat": "45.49575200"
+							},
+							"id": 38383
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Kitsilano ",
+							"location": {
+								"lon": "-123.15129202",
+								"lat": "49.26831807"
+							},
+							"id": 38384
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc’teryx Yorkdale",
+							"location": {
+								"lon": "-79.45538130",
+								"lat": "43.72477716"
+							},
+							"id": 51114
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Stanford Center (Palo Alto) ",
+							"location": {
+								"lon": "-122.17142002",
+								"lat": "37.44303613"
+							},
+							"id": 64075
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Vancouver ",
+							"location": {
+								"lon": "-123.12345202",
+								"lat": "49.28321807"
+							},
+							"id": 65211
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx La Brea",
+							"location": {
+								"lon": "-118.34431939",
+								"lat": "34.07193558"
+							},
+							"id": 65212
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Calgary ",
+							"location": {
+								"lon": "-114.08015187",
+								"lat": "51.03762836"
+							},
+							"id": 101836
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Soho",
+							"location": {
+								"lon": "-74.00231812",
+								"lat": "40.72464867"
+							},
+							"id": 104259
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Metrotown",
+							"location": {
+								"lon": "-122.99946202",
+								"lat": "49.22828066"
+							},
+							"id": 164099
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Victoria",
+							"location": {
+								"lon": "-123.36720212",
+								"lat": "48.42679343"
+							},
+							"id": 164791
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Chinook",
+							"location": {
+								"lon": "-114.07431869",
+								"lat": "50.99883555"
+							},
+							"id": 183115
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Bleecker",
+							"location": {
+								"lon": "-74.00412125",
+								"lat": "40.73476674"
+							},
+							"id": 191297
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx San Francisco ",
+							"location": {
+								"lon": "-122.40522005",
+								"lat": "37.78996191"
+							},
+							"id": 193893
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Flatiron",
+							"location": {
+								"lon": "-73.99048180",
+								"lat": "40.73987040"
+							},
+							"id": 193894
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Santana Row",
+							"location": {
+								"lon": "-121.94747900",
+								"lat": "37.32094600"
+							},
+							"id": 213821
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Upper West Side",
+							"location": {
+								"lon": "-73.98151212",
+								"lat": "40.77466804"
+							},
+							"id": 214963
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Westmount",
+							"location": {
+								"lon": "-73.60370900",
+								"lat": "45.47835100"
+							},
+							"id": 220650
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Corte Madera - OPEN NOW",
+							"location": {
+								"lon": "-122.51445400",
+								"lat": "37.92950200"
+							},
+							"id": 223743
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Broadway - OPEN NOW",
+							"location": {
+								"lon": "-73.99843000",
+								"lat": "40.72364000"
+							},
+							"id": 225531
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Chicago Rush Street - NOW OPEN",
+							"location": {
+								"lon": "-87.62733400",
+								"lat": "41.90106200"
+							},
+							"id": 226678
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Nu Technical Detergent",
+					"downloadLink": "https://www.google.com/",
+					"callLink": "https://www.google.com/",
+					"unit_msrp": "12",
+					"unit_msrp_max": "12",
+					"__pdp__": {
+						"id": "450107"
+					},
+					"long_description": ""
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "450107",
+				"_score": 53.87799,
+				"_source": {
+					"type": "_faq",
+					"image": "https://via.placeholder.com/150",
+					"category_name": "Tech",
+					"stores": [
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Whistler ",
+							"location": {
+								"lon": "-122.95607970",
+								"lat": "50.11869180"
+							},
+							"id": 19823
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Mall of America",
+							"location": {
+								"lon": "-93.24421528",
+								"lat": "44.85568173"
+							},
+							"id": 37177
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Boston ",
+							"location": {
+								"lon": "-71.08721165",
+								"lat": "42.34809694"
+							},
+							"id": 37178
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Seattle ",
+							"location": {
+								"lon": "-122.33649200",
+								"lat": "47.61058780"
+							},
+							"id": 37180
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Toronto - Queen Street",
+							"location": {
+								"lon": "-79.39222130",
+								"lat": "43.64937715"
+							},
+							"id": 38382
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Montréal",
+							"location": {
+								"lon": "-73.57743500",
+								"lat": "45.49575200"
+							},
+							"id": 38383
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Kitsilano ",
+							"location": {
+								"lon": "-123.15129202",
+								"lat": "49.26831807"
+							},
+							"id": 38384
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc’teryx Yorkdale",
+							"location": {
+								"lon": "-79.45538130",
+								"lat": "43.72477716"
+							},
+							"id": 51114
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Stanford Center (Palo Alto) ",
+							"location": {
+								"lon": "-122.17142002",
+								"lat": "37.44303613"
+							},
+							"id": 64075
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Vancouver ",
+							"location": {
+								"lon": "-123.12345202",
+								"lat": "49.28321807"
+							},
+							"id": 65211
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx La Brea",
+							"location": {
+								"lon": "-118.34431939",
+								"lat": "34.07193558"
+							},
+							"id": 65212
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Calgary ",
+							"location": {
+								"lon": "-114.08015187",
+								"lat": "51.03762836"
+							},
+							"id": 101836
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Soho",
+							"location": {
+								"lon": "-74.00231812",
+								"lat": "40.72464867"
+							},
+							"id": 104259
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Metrotown",
+							"location": {
+								"lon": "-122.99946202",
+								"lat": "49.22828066"
+							},
+							"id": 164099
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Victoria",
+							"location": {
+								"lon": "-123.36720212",
+								"lat": "48.42679343"
+							},
+							"id": 164791
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Chinook",
+							"location": {
+								"lon": "-114.07431869",
+								"lat": "50.99883555"
+							},
+							"id": 183115
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Bleecker",
+							"location": {
+								"lon": "-74.00412125",
+								"lat": "40.73476674"
+							},
+							"id": 191297
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx San Francisco ",
+							"location": {
+								"lon": "-122.40522005",
+								"lat": "37.78996191"
+							},
+							"id": 193893
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Flatiron",
+							"location": {
+								"lon": "-73.99048180",
+								"lat": "40.73987040"
+							},
+							"id": 193894
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Santana Row",
+							"location": {
+								"lon": "-121.94747900",
+								"lat": "37.32094600"
+							},
+							"id": 213821
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Upper West Side",
+							"location": {
+								"lon": "-73.98151212",
+								"lat": "40.77466804"
+							},
+							"id": 214963
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Westmount",
+							"location": {
+								"lon": "-73.60370900",
+								"lat": "45.47835100"
+							},
+							"id": 220650
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Corte Madera - OPEN NOW",
+							"location": {
+								"lon": "-122.51445400",
+								"lat": "37.92950200"
+							},
+							"id": 223743
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Broadway - OPEN NOW",
+							"location": {
+								"lon": "-73.99843000",
+								"lat": "40.72364000"
+							},
+							"id": 225531
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Chicago Rush Street - NOW OPEN",
+							"location": {
+								"lon": "-87.62733400",
+								"lat": "41.90106200"
+							},
+							"id": 226678
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "What is a computer?",
+					"question": "What is a computer?",
+					"unit_msrp": "12",
+					"unit_msrp_max": "12",
+					"__pdp__": {
+						"id": "450107"
+					},
+					"long_description": "A computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations automatically. Modern computers can perform generic sets of operations known as programs. These programs enable computers to perform a wide range of tasks"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "450107",
+				"_score": 53.87799,
+				"_source": {
+					"type": "_faq",
+					"image": "https://via.placeholder.com/150",
+					"category_name": "Tech",
+					"stores": [
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Whistler ",
+							"location": {
+								"lon": "-122.95607970",
+								"lat": "50.11869180"
+							},
+							"id": 19823
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Mall of America",
+							"location": {
+								"lon": "-93.24421528",
+								"lat": "44.85568173"
+							},
+							"id": 37177
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Boston ",
+							"location": {
+								"lon": "-71.08721165",
+								"lat": "42.34809694"
+							},
+							"id": 37178
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Seattle ",
+							"location": {
+								"lon": "-122.33649200",
+								"lat": "47.61058780"
+							},
+							"id": 37180
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Toronto - Queen Street",
+							"location": {
+								"lon": "-79.39222130",
+								"lat": "43.64937715"
+							},
+							"id": 38382
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Montréal",
+							"location": {
+								"lon": "-73.57743500",
+								"lat": "45.49575200"
+							},
+							"id": 38383
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Kitsilano ",
+							"location": {
+								"lon": "-123.15129202",
+								"lat": "49.26831807"
+							},
+							"id": 38384
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc’teryx Yorkdale",
+							"location": {
+								"lon": "-79.45538130",
+								"lat": "43.72477716"
+							},
+							"id": 51114
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Stanford Center (Palo Alto) ",
+							"location": {
+								"lon": "-122.17142002",
+								"lat": "37.44303613"
+							},
+							"id": 64075
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Vancouver ",
+							"location": {
+								"lon": "-123.12345202",
+								"lat": "49.28321807"
+							},
+							"id": 65211
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx La Brea",
+							"location": {
+								"lon": "-118.34431939",
+								"lat": "34.07193558"
+							},
+							"id": 65212
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Calgary ",
+							"location": {
+								"lon": "-114.08015187",
+								"lat": "51.03762836"
+							},
+							"id": 101836
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Soho",
+							"location": {
+								"lon": "-74.00231812",
+								"lat": "40.72464867"
+							},
+							"id": 104259
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Metrotown",
+							"location": {
+								"lon": "-122.99946202",
+								"lat": "49.22828066"
+							},
+							"id": 164099
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Victoria",
+							"location": {
+								"lon": "-123.36720212",
+								"lat": "48.42679343"
+							},
+							"id": 164791
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Chinook",
+							"location": {
+								"lon": "-114.07431869",
+								"lat": "50.99883555"
+							},
+							"id": 183115
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Bleecker",
+							"location": {
+								"lon": "-74.00412125",
+								"lat": "40.73476674"
+							},
+							"id": 191297
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx San Francisco ",
+							"location": {
+								"lon": "-122.40522005",
+								"lat": "37.78996191"
+							},
+							"id": 193893
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Flatiron",
+							"location": {
+								"lon": "-73.99048180",
+								"lat": "40.73987040"
+							},
+							"id": 193894
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Santana Row",
+							"location": {
+								"lon": "-121.94747900",
+								"lat": "37.32094600"
+							},
+							"id": 213821
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Upper West Side",
+							"location": {
+								"lon": "-73.98151212",
+								"lat": "40.77466804"
+							},
+							"id": 214963
+						},
+						{
+							"company_id": 119103,
+							"name": "Arc'teryx Westmount",
+							"location": {
+								"lon": "-73.60370900",
+								"lat": "45.47835100"
+							},
+							"id": 220650
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Corte Madera - OPEN NOW",
+							"location": {
+								"lon": "-122.51445400",
+								"lat": "37.92950200"
+							},
+							"id": 223743
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Broadway - OPEN NOW",
+							"location": {
+								"lon": "-73.99843000",
+								"lat": "40.72364000"
+							},
+							"id": 225531
+						},
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Chicago Rush Street - NOW OPEN",
+							"location": {
+								"lon": "-87.62733400",
+								"lat": "41.90106200"
+							},
+							"id": 226678
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "What is a cellphone?",
+					"question": "What is a cellphone?",
+					"unit_msrp": "12",
+					"unit_msrp_max": "12",
+					"__pdp__": {
+						"id": "450107"
+					},
+					"long_description": "A computer is a machine that can be programmed to carry out sequences of arithmetic or logical operations automatically. Modern computers can perform generic sets of operations known as programs. These programs enable computers to perform a wide range of tasks"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			}
+		]
+	},
+	"aggregations": {
+		"colors.name.raw": {
+			"doc_count_error_upper_bound": 28,
+			"sum_other_doc_count": 2942,
+			"buckets": [
+				{
+					"key": "Black",
+					"doc_count": 624
+				},
+				{
+					"key": "Cobalt Moon",
+					"doc_count": 80
+				},
+				{
+					"key": "Black Heather",
+					"doc_count": 68
+				},
+				{
+					"key": "Dynasty",
+					"doc_count": 59
+				},
+				{
+					"key": "Exosphere",
+					"doc_count": 59
+				},
+				{
+					"key": "Rhapsody",
+					"doc_count": 57
+				},
+				{
+					"key": "White",
+					"doc_count": 55
+				},
+				{
+					"key": "Tatsu",
+					"doc_count": 51
+				},
+				{
+					"key": "Enigma",
+					"doc_count": 48
+				},
+				{
+					"key": "Kingfisher",
+					"doc_count": 45
+				}
+			]
+		},
+		"company_name.raw": {
+			"doc_count_error_upper_bound": 0,
+			"sum_other_doc_count": 0,
+			"buckets": [
+				{
+					"key": "Arc'teryx",
+					"doc_count": 1012
+				}
+			]
+		},
+		"stores": {
+			"doc_count": 26372,
+			"stores": {
+				"doc_count": 1225,
+				"nearme": {
+					"buckets": [
+						{
+							"key": "*-5.0",
+							"from": 0.0,
+							"to": 5.0,
+							"doc_count": 799
+						},
+						{
+							"key": "*-15.0",
+							"from": 0.0,
+							"to": 15.0,
+							"doc_count": 850
+						},
+						{
+							"key": "*-*",
+							"from": 0.0,
+							"doc_count": 1225
+						}
+					]
+				},
+				"stores": {
+					"doc_count_error_upper_bound": 0,
+					"sum_other_doc_count": 223,
+					"buckets": [
+						{
+							"key": "Arc'teryx Soho",
+							"doc_count": 224
+						},
+						{
+							"key": "Arc'teryx Broadway - OPEN NOW",
+							"doc_count": 166
+						},
+						{
+							"key": "Arc'teryx Flatiron",
+							"doc_count": 98
+						},
+						{
+							"key": "Arc'teryx Bleecker",
+							"doc_count": 94
+						},
+						{
+							"key": "Arc'teryx Upper West Side",
+							"doc_count": 86
+						},
+						{
+							"key": "REI - Soho Flagship - Curbside available",
+							"doc_count": 75
+						},
+						{
+							"key": "REI - Princeton - Curbside available",
+							"doc_count": 68
+						},
+						{
+							"key": "REI - East Hanover - Curbside available",
+							"doc_count": 67
+						},
+						{
+							"key": "REI - Norwalk - Curbside available",
+							"doc_count": 65
+						},
+						{
+							"key": "REI - Carle Place - Curbside available",
+							"doc_count": 59
+						}
+					]
+				}
+			}
+		},
+		"category_3rd": {
+			"doc_count_error_upper_bound": 1,
+			"sum_other_doc_count": 73,
+			"buckets": [
+				{
+					"key": "Outerwear Tops",
+					"doc_count": 384
+				},
+				{
+					"key": "",
+					"doc_count": 174
+				},
+				{
+					"key": "Headwear",
+					"doc_count": 64
+				},
+				{
+					"key": "Outerwear Bottoms",
+					"doc_count": 63
+				},
+				{
+					"key": "Short Sleeve Shirts",
+					"doc_count": 50
+				},
+				{
+					"key": "Long Sleeve Shirts",
+					"doc_count": 29
+				},
+				{
+					"key": "Pants",
+					"doc_count": 28
+				},
+				{
+					"key": "Tech Packs / Day+",
+					"doc_count": 27
+				},
+				{
+					"key": "Shorts",
+					"doc_count": 24
+				},
+				{
+					"key": "Day Packs / Bookbags",
+					"doc_count": 23
+				},
+				{
+					"key": "Fitness Tops",
+					"doc_count": 18
+				},
+				{
+					"key": "Fitness Bottoms",
+					"doc_count": 17
+				},
+				{
+					"key": "Hiking Shoes",
+					"doc_count": 15
+				},
+				{
+					"key": "Gloves",
+					"doc_count": 13
+				},
+				{
+					"key": "Base Layer - Tops",
+					"doc_count": 10
+				}
+			]
+		},
+		"category_top": {
+			"doc_count_error_upper_bound": 0,
+			"sum_other_doc_count": 0,
+			"buckets": [
+				{
+					"key": "Clothing",
+					"doc_count": 867
+				},
+				{
+					"key": "Outdoor Gear",
+					"doc_count": 58
+				},
+				{
+					"key": "Footwear",
+					"doc_count": 44
+				},
+				{
+					"key": "Travel Gear",
+					"doc_count": 18
+				},
+				{
+					"key": "Climbing Gear",
+					"doc_count": 14
+				},
+				{
+					"key": "SnowSports",
+					"doc_count": 9
+				},
+				{
+					"key": "Fishing",
+					"doc_count": 1
+				},
+				{
+					"key": "Tactical",
+					"doc_count": 1
+				}
+			]
+		},
+		"gender_normalized": {
+			"doc_count_error_upper_bound": 0,
+			"sum_other_doc_count": 0,
+			"buckets": [
+				{
+					"key": "Male",
+					"doc_count": 517
+				},
+				{
+					"key": "Female",
+					"doc_count": 320
+				},
+				{
+					"key": "Unisex",
+					"doc_count": 136
+				},
+				{
+					"key": "",
+					"doc_count": 39
+				}
+			]
+		},
+		"unit_msrp": {
+			"buckets": [
+				{
+					"key": "0.0-25.0",
+					"from": 0.0,
+					"to": 25.0,
+					"doc_count": 12
+				},
+				{
+					"key": "25.0-50.0",
+					"from": 25.0,
+					"to": 50.0,
+					"doc_count": 119
+				},
+				{
+					"key": "50.0-100.0",
+					"from": 50.0,
+					"to": 100.0,
+					"doc_count": 159
+				},
+				{
+					"key": "100.0-200.0",
+					"from": 100.0,
+					"to": 200.0,
+					"doc_count": 243
+				},
+				{
+					"key": "200.0-500.0",
+					"from": 200.0,
+					"to": 500.0,
+					"doc_count": 259
+				},
+				{
+					"key": "500.0-1000.0",
+					"from": 500.0,
+					"to": 1000.0,
+					"doc_count": 186
+				},
+				{
+					"key": "1000.0-*",
+					"from": 1000.0,
+					"doc_count": 27
+				}
+			]
+		},
+		"average_rating": {
+			"buckets": [
+				{
+					"key": "0.0-1.0",
+					"from": 0.0,
+					"to": 1.0,
+					"doc_count": 276
+				},
+				{
+					"key": "1.0-2.0",
+					"from": 1.0,
+					"to": 2.0,
+					"doc_count": 18
+				},
+				{
+					"key": "2.0-3.0",
+					"from": 2.0,
+					"to": 3.0,
+					"doc_count": 20
+				},
+				{
+					"key": "3.0-4.0",
+					"from": 3.0,
+					"to": 4.0,
+					"doc_count": 72
+				},
+				{
+					"key": "4.0-*",
+					"from": 4.0,
+					"doc_count": 626
+				}
+			]
+		},
+		"category_4th": {
+			"doc_count_error_upper_bound": 0,
+			"sum_other_doc_count": 0,
+			"buckets": [
+				{
+					"key": "",
+					"doc_count": 757
+				},
+				{
+					"key": "Insulated Tops",
+					"doc_count": 102
+				},
+				{
+					"key": "Caps/Hats/Beanies",
+					"doc_count": 32
+				},
+				{
+					"key": "Hardshell Tops",
+					"doc_count": 32
+				},
+				{
+					"key": "Softshell Tops",
+					"doc_count": 27
+				},
+				{
+					"key": "Fleece Tops",
+					"doc_count": 24
+				},
+				{
+					"key": "Softshell Bottoms",
+					"doc_count": 11
+				},
+				{
+					"key": "Windproof Tops",
+					"doc_count": 11
+				},
+				{
+					"key": "Hardshell Bottoms",
+					"doc_count": 7
+				},
+				{
+					"key": "Gaiters and Scarves",
+					"doc_count": 5
+				},
+				{
+					"key": "Insulated Bottoms",
+					"doc_count": 3
+				},
+				{
+					"key": "Pack Covers",
+					"doc_count": 1
+				}
+			]
+		},
+		"category_2nd": {
+			"doc_count_error_upper_bound": 0,
+			"sum_other_doc_count": 19,
+			"buckets": [
+				{
+					"key": "Outerwear",
+					"doc_count": 473
+				},
+				{
+					"key": "Clothing Tops",
+					"doc_count": 164
+				},
+				{
+					"key": "Clothing Accessories",
+					"doc_count": 83
+				},
+				{
+					"key": "Clothing Bottoms",
+					"doc_count": 80
+				},
+				{
+					"key": "Bags & Packs",
+					"doc_count": 56
+				},
+				{
+					"key": "Shoes",
+					"doc_count": 36
+				},
+				{
+					"key": "Fitness Clothing",
+					"doc_count": 35
+				},
+				{
+					"key": "Base Layer",
+					"doc_count": 23
+				},
+				{
+					"key": "Dresses / Jumpers",
+					"doc_count": 9
+				},
+				{
+					"key": "Shoulder Bags",
+					"doc_count": 8
+				},
+				{
+					"key": "Climbing Accessories",
+					"doc_count": 7
+				},
+				{
+					"key": "Climbing Harnesses",
+					"doc_count": 5
+				},
+				{
+					"key": "Luggage",
+					"doc_count": 5
+				},
+				{
+					"key": "Travel Accessories",
+					"doc_count": 5
+				},
+				{
+					"key": "Boots",
+					"doc_count": 4
+				}
+			]
+		}
+	},
+	"suggest": {
+		"description": [
+			{
+				"text": "arc'teryx",
+				"offset": 0,
+				"length": 9,
+				"options": []
+			}
+		]
+	}
+}
