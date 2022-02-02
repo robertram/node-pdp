@@ -1,0 +1,489 @@
+{
+	"snaps": {
+		"company_name.raw": [
+			"Arc'teryx"
+		]
+	},
+	"took": 4553,
+	"timed_out": false,
+	"_shards": {
+		"total": 3,
+		"successful": 3,
+		"skipped": 0,
+		"failed": 0
+	},
+	"hits": {
+		"total": {
+			"value": 0,
+			"relation": "eq"
+		},
+		"max_score": 75.96579,
+		"main_results": [],
+		"hits": []
+	},
+	"aggregations": {
+		"colors.name.raw": {
+			"doc_count_error_upper_bound": 28,
+			"sum_other_doc_count": 2942,
+			"buckets": [
+				{
+					"key": "Black",
+					"doc_count": 624
+				},
+				{
+					"key": "Cobalt Moon",
+					"doc_count": 80
+				},
+				{
+					"key": "Black Heather",
+					"doc_count": 68
+				},
+				{
+					"key": "Dynasty",
+					"doc_count": 59
+				},
+				{
+					"key": "Exosphere",
+					"doc_count": 59
+				},
+				{
+					"key": "Rhapsody",
+					"doc_count": 57
+				},
+				{
+					"key": "White",
+					"doc_count": 55
+				},
+				{
+					"key": "Tatsu",
+					"doc_count": 51
+				},
+				{
+					"key": "Enigma",
+					"doc_count": 48
+				},
+				{
+					"key": "Kingfisher",
+					"doc_count": 45
+				}
+			]
+		},
+		"company_name.raw": {
+			"doc_count_error_upper_bound": 0,
+			"sum_other_doc_count": 0,
+			"buckets": [
+				{
+					"key": "Arc'teryx",
+					"doc_count": 1012
+				}
+			]
+		},
+		"stores": {
+			"doc_count": 26372,
+			"stores": {
+				"doc_count": 1225,
+				"nearme": {
+					"buckets": [
+						{
+							"key": "*-5.0",
+							"from": 0.0,
+							"to": 5.0,
+							"doc_count": 799
+						},
+						{
+							"key": "*-15.0",
+							"from": 0.0,
+							"to": 15.0,
+							"doc_count": 850
+						},
+						{
+							"key": "*-*",
+							"from": 0.0,
+							"doc_count": 1225
+						}
+					]
+				},
+				"stores": {
+					"doc_count_error_upper_bound": 0,
+					"sum_other_doc_count": 223,
+					"buckets": [
+						{
+							"key": "Arc'teryx Soho",
+							"doc_count": 224
+						},
+						{
+							"key": "Arc'teryx Broadway - OPEN NOW",
+							"doc_count": 166
+						},
+						{
+							"key": "Arc'teryx Flatiron",
+							"doc_count": 98
+						},
+						{
+							"key": "Arc'teryx Bleecker",
+							"doc_count": 94
+						},
+						{
+							"key": "Arc'teryx Upper West Side",
+							"doc_count": 86
+						},
+						{
+							"key": "REI - Soho Flagship - Curbside available",
+							"doc_count": 75
+						},
+						{
+							"key": "REI - Princeton - Curbside available",
+							"doc_count": 68
+						},
+						{
+							"key": "REI - East Hanover - Curbside available",
+							"doc_count": 67
+						},
+						{
+							"key": "REI - Norwalk - Curbside available",
+							"doc_count": 65
+						},
+						{
+							"key": "REI - Carle Place - Curbside available",
+							"doc_count": 59
+						}
+					]
+				}
+			}
+		},
+		"category_3rd": {
+			"doc_count_error_upper_bound": 1,
+			"sum_other_doc_count": 73,
+			"buckets": [
+				{
+					"key": "Outerwear Tops",
+					"doc_count": 384
+				},
+				{
+					"key": "",
+					"doc_count": 174
+				},
+				{
+					"key": "Headwear",
+					"doc_count": 64
+				},
+				{
+					"key": "Outerwear Bottoms",
+					"doc_count": 63
+				},
+				{
+					"key": "Short Sleeve Shirts",
+					"doc_count": 50
+				},
+				{
+					"key": "Long Sleeve Shirts",
+					"doc_count": 29
+				},
+				{
+					"key": "Pants",
+					"doc_count": 28
+				},
+				{
+					"key": "Tech Packs / Day+",
+					"doc_count": 27
+				},
+				{
+					"key": "Shorts",
+					"doc_count": 24
+				},
+				{
+					"key": "Day Packs / Bookbags",
+					"doc_count": 23
+				},
+				{
+					"key": "Fitness Tops",
+					"doc_count": 18
+				},
+				{
+					"key": "Fitness Bottoms",
+					"doc_count": 17
+				},
+				{
+					"key": "Hiking Shoes",
+					"doc_count": 15
+				},
+				{
+					"key": "Gloves",
+					"doc_count": 13
+				},
+				{
+					"key": "Base Layer - Tops",
+					"doc_count": 10
+				}
+			]
+		},
+		"category_top": {
+			"doc_count_error_upper_bound": 0,
+			"sum_other_doc_count": 0,
+			"buckets": [
+				{
+					"key": "Clothing",
+					"doc_count": 867
+				},
+				{
+					"key": "Outdoor Gear",
+					"doc_count": 58
+				},
+				{
+					"key": "Footwear",
+					"doc_count": 44
+				},
+				{
+					"key": "Travel Gear",
+					"doc_count": 18
+				},
+				{
+					"key": "Climbing Gear",
+					"doc_count": 14
+				},
+				{
+					"key": "SnowSports",
+					"doc_count": 9
+				},
+				{
+					"key": "Fishing",
+					"doc_count": 1
+				},
+				{
+					"key": "Tactical",
+					"doc_count": 1
+				}
+			]
+		},
+		"gender_normalized": {
+			"doc_count_error_upper_bound": 0,
+			"sum_other_doc_count": 0,
+			"buckets": [
+				{
+					"key": "Male",
+					"doc_count": 517
+				},
+				{
+					"key": "Female",
+					"doc_count": 320
+				},
+				{
+					"key": "Unisex",
+					"doc_count": 136
+				},
+				{
+					"key": "",
+					"doc_count": 39
+				}
+			]
+		},
+		"unit_msrp": {
+			"buckets": [
+				{
+					"key": "0.0-25.0",
+					"from": 0.0,
+					"to": 25.0,
+					"doc_count": 12
+				},
+				{
+					"key": "25.0-50.0",
+					"from": 25.0,
+					"to": 50.0,
+					"doc_count": 119
+				},
+				{
+					"key": "50.0-100.0",
+					"from": 50.0,
+					"to": 100.0,
+					"doc_count": 159
+				},
+				{
+					"key": "100.0-200.0",
+					"from": 100.0,
+					"to": 200.0,
+					"doc_count": 243
+				},
+				{
+					"key": "200.0-500.0",
+					"from": 200.0,
+					"to": 500.0,
+					"doc_count": 259
+				},
+				{
+					"key": "500.0-1000.0",
+					"from": 500.0,
+					"to": 1000.0,
+					"doc_count": 186
+				},
+				{
+					"key": "1000.0-*",
+					"from": 1000.0,
+					"doc_count": 27
+				}
+			]
+		},
+		"average_rating": {
+			"buckets": [
+				{
+					"key": "0.0-1.0",
+					"from": 0.0,
+					"to": 1.0,
+					"doc_count": 276
+				},
+				{
+					"key": "1.0-2.0",
+					"from": 1.0,
+					"to": 2.0,
+					"doc_count": 18
+				},
+				{
+					"key": "2.0-3.0",
+					"from": 2.0,
+					"to": 3.0,
+					"doc_count": 20
+				},
+				{
+					"key": "3.0-4.0",
+					"from": 3.0,
+					"to": 4.0,
+					"doc_count": 72
+				},
+				{
+					"key": "4.0-*",
+					"from": 4.0,
+					"doc_count": 626
+				}
+			]
+		},
+		"category_4th": {
+			"doc_count_error_upper_bound": 0,
+			"sum_other_doc_count": 0,
+			"buckets": [
+				{
+					"key": "",
+					"doc_count": 757
+				},
+				{
+					"key": "Insulated Tops",
+					"doc_count": 102
+				},
+				{
+					"key": "Caps/Hats/Beanies",
+					"doc_count": 32
+				},
+				{
+					"key": "Hardshell Tops",
+					"doc_count": 32
+				},
+				{
+					"key": "Softshell Tops",
+					"doc_count": 27
+				},
+				{
+					"key": "Fleece Tops",
+					"doc_count": 24
+				},
+				{
+					"key": "Softshell Bottoms",
+					"doc_count": 11
+				},
+				{
+					"key": "Windproof Tops",
+					"doc_count": 11
+				},
+				{
+					"key": "Hardshell Bottoms",
+					"doc_count": 7
+				},
+				{
+					"key": "Gaiters and Scarves",
+					"doc_count": 5
+				},
+				{
+					"key": "Insulated Bottoms",
+					"doc_count": 3
+				},
+				{
+					"key": "Pack Covers",
+					"doc_count": 1
+				}
+			]
+		},
+		"category_2nd": {
+			"doc_count_error_upper_bound": 0,
+			"sum_other_doc_count": 19,
+			"buckets": [
+				{
+					"key": "Outerwear",
+					"doc_count": 473
+				},
+				{
+					"key": "Clothing Tops",
+					"doc_count": 164
+				},
+				{
+					"key": "Clothing Accessories",
+					"doc_count": 83
+				},
+				{
+					"key": "Clothing Bottoms",
+					"doc_count": 80
+				},
+				{
+					"key": "Bags & Packs",
+					"doc_count": 56
+				},
+				{
+					"key": "Shoes",
+					"doc_count": 36
+				},
+				{
+					"key": "Fitness Clothing",
+					"doc_count": 35
+				},
+				{
+					"key": "Base Layer",
+					"doc_count": 23
+				},
+				{
+					"key": "Dresses / Jumpers",
+					"doc_count": 9
+				},
+				{
+					"key": "Shoulder Bags",
+					"doc_count": 8
+				},
+				{
+					"key": "Climbing Accessories",
+					"doc_count": 7
+				},
+				{
+					"key": "Climbing Harnesses",
+					"doc_count": 5
+				},
+				{
+					"key": "Luggage",
+					"doc_count": 5
+				},
+				{
+					"key": "Travel Accessories",
+					"doc_count": 5
+				},
+				{
+					"key": "Boots",
+					"doc_count": 4
+				}
+			]
+		}
+	},
+	"suggest": {
+		"description": [
+			{
+				"text": "arc'teryx",
+				"offset": 0,
+				"length": 9,
+				"options": []
+			}
+		]
+	}
+}

@@ -3169,6 +3169,210 @@
 						"<b>Arc'teryx</b>"
 					]
 				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "450107",
+				"_score": 53.87799,
+				"_source": {
+					"type": "_related",
+					"image": "https://via.placeholder.com/150",
+					"category_name": "Tech",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Chicago Rush Street - NOW OPEN",
+							"location": {
+								"lon": "-87.62733400",
+								"lat": "41.90106200"
+							},
+							"id": 226678
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Kapta Short 3.5 Women's",
+					"unit_msrp": "12",
+					"unit_msrp_max": "12",
+					"__pdp__": {
+						"id": "450107"
+					},
+					"long_description": "Waterproof/breathable GORE-TEX provides protection while Down Contour technology maximizes insulation benefits | Adjustable hood for custom protection; and down neck gasket blocks drafts | Two-way center front zipper | Two hand pockets, 1 exterior chest pocket, 1 interior zip pocket | Cuff gaskets seal out drafts, and below thigh length provides coverage"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "450107",
+				"_score": 53.87799,
+				"_source": {
+					"type": "_related",
+					"image": "https://via.placeholder.com/150",
+					"category_name": "Tech",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Chicago Rush Street - NOW OPEN",
+							"location": {
+								"lon": "-87.62733400",
+								"lat": "41.90106200"
+							},
+							"id": 226678
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Short 1.5 Men",
+					"unit_msrp": "12",
+					"unit_msrp_max": "12",
+					"__pdp__": {
+						"id": "450107"
+					},
+					"long_description": "Waterproof/breathable GORE-TEX provides protection while Down Contour technology maximizes insulation benefits | Adjustable hood for custom protection; and down neck gasket blocks drafts | Two-way center front zipper | Two hand pockets, 1 exterior chest pocket, 1 interior zip pocket | Cuff gaskets seal out drafts, and below thigh length provides coverage"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "450107",
+				"_score": 53.87799,
+				"_source": {
+					"type": "_related",
+					"image": "https://via.placeholder.com/150",
+					"category_name": "Tech",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Chicago Rush Street - NOW OPEN",
+							"location": {
+								"lon": "-87.62733400",
+								"lat": "41.90106200"
+							},
+							"id": 226678
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Women's Kapta Short 3.5 ",
+					"unit_msrp": "12",
+					"unit_msrp_max": "12",
+					"__pdp__": {
+						"id": "450107"
+					},
+					"long_description": "Waterproof/breathable GORE-TEX provides protection while Down Contour technology maximizes insulation benefits | Adjustable hood for custom protection; and down neck gasket blocks drafts | Two-way center front zipper | Two hand pockets, 1 exterior chest pocket, 1 interior zip pocket | Cuff gaskets seal out drafts, and below thigh length provides coverage"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "450107",
+				"_score": 53.87799,
+				"_source": {
+					"type": "_related",
+					"image": "https://via.placeholder.com/150",
+					"category_name": "Tech",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Chicago Rush Street - NOW OPEN",
+							"location": {
+								"lon": "-87.62733400",
+								"lat": "41.90106200"
+							},
+							"id": 226678
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Kapta Short 3.5 Women's",
+					"unit_msrp": "12",
+					"unit_msrp_max": "12",
+					"__pdp__": {
+						"id": "450107"
+					},
+					"long_description": "Waterproof/breathable GORE-TEX provides protection while Down Contour technology maximizes insulation benefits | Adjustable hood for custom protection; and down neck gasket blocks drafts | Two-way center front zipper | Two hand pockets, 1 exterior chest pocket, 1 interior zip pocket | Cuff gaskets seal out drafts, and below thigh length provides coverage"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "450107",
+				"_score": 53.87799,
+				"_source": {
+					"type": "_related",
+					"image": "https://via.placeholder.com/150",
+					"category_name": "Tech",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Chicago Rush Street - NOW OPEN",
+							"location": {
+								"lon": "-87.62733400",
+								"lat": "41.90106200"
+							},
+							"id": 226678
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Short 1.5 Men",
+					"unit_msrp": "12",
+					"unit_msrp_max": "12",
+					"__pdp__": {
+						"id": "450107"
+					},
+					"long_description": "Waterproof/breathable GORE-TEX provides protection while Down Contour technology maximizes insulation benefits | Adjustable hood for custom protection; and down neck gasket blocks drafts | Two-way center front zipper | Two hand pockets, 1 exterior chest pocket, 1 interior zip pocket | Cuff gaskets seal out drafts, and below thigh length provides coverage"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
+			},
+			{
+				"_index": "lcly-products_20211118b_lookup",
+				"_id": "450107",
+				"_score": 53.87799,
+				"_source": {
+					"type": "_related",
+					"image": "https://via.placeholder.com/150",
+					"category_name": "Tech",
+					"stores": [
+						{
+							"company_id": 119104,
+							"name": "Arc'teryx Chicago Rush Street - NOW OPEN",
+							"location": {
+								"lon": "-87.62733400",
+								"lat": "41.90106200"
+							},
+							"id": 226678
+						}
+					],
+					"company_name": "Arc'teryx",
+					"name": "Women's Kapta Short 3.5 ",
+					"unit_msrp": "12",
+					"unit_msrp_max": "12",
+					"__pdp__": {
+						"id": "450107"
+					},
+					"long_description": "Waterproof/breathable GORE-TEX provides protection while Down Contour technology maximizes insulation benefits | Adjustable hood for custom protection; and down neck gasket blocks drafts | Two-way center front zipper | Two hand pockets, 1 exterior chest pocket, 1 interior zip pocket | Cuff gaskets seal out drafts, and below thigh length provides coverage"
+				},
+				"highlight": {
+					"company_name": [
+						"<b>Arc'teryx</b>"
+					]
+				}
 			}
 		]
 	},
